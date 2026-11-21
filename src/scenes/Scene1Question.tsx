@@ -11,9 +11,9 @@ export const Scene1Question: React.FC = () => {
   const frame = useCurrentFrame();
   const progress = Math.min(1, Math.max(0, frame / 180));
 
-  // Floating boulder drift
+  // Subtle breathing and drift
   const boulderDrift = Math.sin(frame * 0.04) * 8;
-  const squirrelHop = Math.abs(Math.sin(frame * 0.12)) * 6;
+  const squirrelHop = Math.abs(Math.sin(frame * 0.12)) * 5;
 
   const spokenText = "Kya ek mutthi-bhar gilahri vishaal samundar par pathar ka pul bana sakti hai?";
 
@@ -23,7 +23,7 @@ export const Scene1Question: React.FC = () => {
         position: 'relative',
         width: 1080,
         height: 1920,
-        backgroundColor: '#FFF8E7', // Traditional raw cotton/khadi paper tone
+        backgroundColor: '#FFF8E7',
         overflow: 'hidden',
         fontFamily: "'Segoe UI', Roboto, sans-serif",
       }}
@@ -31,7 +31,7 @@ export const Scene1Question: React.FC = () => {
       {/* Background Madhubani Sun with serene human face */}
       <MadhubaniSun x={840} y={320} size={250} />
 
-      {/* Top Header Badge (Title Safe Area > 160px from top) */}
+      {/* Top Header Badge (Inside Safe Area > 160px from top) */}
       <div
         style={{
           position: 'absolute',
@@ -64,8 +64,8 @@ export const Scene1Question: React.FC = () => {
       <div
         style={{
           position: 'absolute',
-          top: 760 + boulderDrift,
-          left: 480,
+          top: 680 + boulderDrift,
+          left: 450,
           zIndex: 10,
         }}
       >
@@ -104,7 +104,7 @@ export const Scene1Question: React.FC = () => {
           top: 1180,
           left: 0,
           width: '100%',
-          height: '240px',
+          height: '220px',
           background: '#FFE082',
           borderTop: '5px solid #1A1A1A',
           zIndex: 15,
@@ -128,7 +128,9 @@ export const Scene1Question: React.FC = () => {
       </div>
 
       {/* The Little Squirrel standing on shore, gazing up at giant boulder */}
-      <MadhubaniSquirrel x={220} y={1160 - squirrelHop} scale={1.25} pose="standing" />
+      <div style={{ position: 'absolute', zIndex: 25 }}>
+        <MadhubaniSquirrel x={200} y={945 - squirrelHop} scale={1.25} pose="standing" />
+      </div>
 
       {/* Ocean Waves with swimming Mithila fish */}
       <MadhubaniWater y={1380} height={540} speed={1.2} />

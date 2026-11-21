@@ -28,21 +28,25 @@ export const Scene5Choice: React.FC = () => {
       <div
         style={{
           position: 'absolute',
-          top: 1140,
+          top: 1150,
           left: 0,
           width: '100%',
-          height: '280px',
+          height: '270px',
           background: '#FFE082',
           borderTop: '5px solid #1A1A1A',
           zIndex: 10,
         }}
       />
 
-      {/* Large Mocking Vanar pointing down at squirrel */}
-      <MadhubaniVanar x={160} y={720} scale={1.4} action="pointing" />
+      {/* Large Mocking Vanar pointing down at squirrel - feet resting on sand! */}
+      <div style={{ position: 'absolute', zIndex: 25 }}>
+        <MadhubaniVanar x={120} y={425} scale={1.35} action="pointing" />
+      </div>
 
-      {/* Tiny Squirrel standing firm, hands folded in Pranam / prayer */}
-      <MadhubaniSquirrel x={680} y={1160} scale={1.4} pose="praying" />
+      {/* Tiny Squirrel standing firm, hands folded in Pranam / prayer - on sand! */}
+      <div style={{ position: 'absolute', zIndex: 25 }}>
+        <MadhubaniSquirrel x={680} y={885} scale={1.4} pose="praying" />
+      </div>
 
       {/* Surging ocean waves below */}
       <MadhubaniWater y={1380} height={540} speed={1.3} />
@@ -58,4 +62,3 @@ export const Scene5Choice: React.FC = () => {
     </div>
   );
 };
-

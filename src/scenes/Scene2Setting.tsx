@@ -45,8 +45,10 @@ export const Scene2Setting: React.FC = () => {
         }}
       />
 
-      {/* Powerful Vanar Warrior lifting mountain rock with "श्री राम" */}
-      <MadhubaniVanar x={480} y={820} scale={1.25} action="lifting" boulderText="श्री राम" />
+      {/* Powerful Vanar Warrior lifting mountain rock with "श्री राम" - feet on sand! */}
+      <div style={{ position: 'absolute', zIndex: 25 }}>
+        <MadhubaniVanar x={480} y={545} scale={1.25} action="lifting" boulderText="श्री राम" />
+      </div>
 
       {/* Ocean with patterned swimming fish */}
       <MadhubaniWater y={1380} height={540} speed={1.5} />
@@ -62,4 +64,3 @@ export const Scene2Setting: React.FC = () => {
     </div>
   );
 };
-

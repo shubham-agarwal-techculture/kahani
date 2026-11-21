@@ -12,7 +12,7 @@ export const Scene3Problem: React.FC = () => {
   const progress = Math.min(1, Math.max(0, frame / 180));
 
   // Dynamic rock splash falling
-  const rockY = Math.min(420, frame * 6);
+  const rockY = Math.min(380, frame * 5.5);
 
   const spokenText = "Har taraf dhool thi, garjana thi, aur Lanka tak pahunchne ki bechaini thi.";
 
@@ -41,24 +41,41 @@ export const Scene3Problem: React.FC = () => {
         }}
       />
 
-      {/* Vanar 1 (Left background) */}
-      <MadhubaniVanar x={120} y={800} scale={0.95} action="lifting" boulderText="जय श्री राम" />
+      {/* Sandy Ground */}
+      <div
+        style={{
+          position: 'absolute',
+          top: 1180,
+          left: 0,
+          width: '100%',
+          height: '220px',
+          background: '#FFE082',
+          borderTop: '5px solid #1A1A1A',
+          zIndex: 10,
+        }}
+      />
 
-      {/* Vanar 2 (Right midground) */}
-      <MadhubaniVanar x={580} y={760} scale={1.15} action="lifting" boulderText="श्री राम" />
+      {/* Vanar 1 (Left background) - Standing on sand */}
+      <div style={{ position: 'absolute', zIndex: 25 }}>
+        <MadhubaniVanar x={100} y={640} scale={1.0} action="lifting" boulderText="जय श्री राम" />
+      </div>
+
+      {/* Vanar 2 (Right midground) - Standing on sand */}
+      <div style={{ position: 'absolute', zIndex: 25 }}>
+        <MadhubaniVanar x={540} y={560} scale={1.15} action="lifting" boulderText="श्री राम" />
+      </div>
 
       {/* Rock crashing into sea with stylized splash */}
       <div
         style={{
           position: 'absolute',
-          top: 980 + rockY,
-          left: 420,
-          zIndex: 18,
+          top: 1020 + rockY,
+          left: 380,
+          zIndex: 28,
         }}
       >
         <svg width="240" height="180" viewBox="0 0 240 180" fill="none">
           <polygon points="20,80 80,20 180,40 220,110 160,160 40,140" fill="#78909C" stroke="#1A1A1A" strokeWidth="4" />
-          {/* Splash droplets in Madhubani style */}
           <circle cx="20" cy="30" r="8" fill="#42A5F5" stroke="#1A1A1A" strokeWidth="2" />
           <circle cx="220" cy="20" r="10" fill="#42A5F5" stroke="#1A1A1A" strokeWidth="2" />
           <circle cx="120" cy="-10" r="9" fill="#42A5F5" stroke="#1A1A1A" strokeWidth="2" />
@@ -82,4 +99,3 @@ export const Scene3Problem: React.FC = () => {
     </div>
   );
 };
-

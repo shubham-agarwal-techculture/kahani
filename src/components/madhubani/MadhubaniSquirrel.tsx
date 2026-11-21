@@ -35,7 +35,8 @@ export const MadhubaniSquirrel: React.FC<MadhubaniSquirrelProps> = ({
         left: x + shakeX,
         top: y + breath,
         transform: `scale(${scale}) rotate(${rollAngle}deg)`,
-        transformOrigin: 'bottom center',
+        transformOrigin: 'top left',
+        zIndex: 25,
         pointerEvents: 'none',
       }}
     >

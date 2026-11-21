@@ -26,7 +26,7 @@ export const Scene7Blessing: React.FC = () => {
       <div
         style={{
           position: 'absolute',
-          top: 360,
+          top: 320,
           left: 240,
           width: '600px',
           height: '600px',
@@ -34,13 +34,13 @@ export const Scene7Blessing: React.FC = () => {
           border: '6px double #D32F2F',
           outline: '3px dashed #FBC02D',
           outlineOffset: '8px',
-          opacity: 0.5,
+          opacity: 0.4,
           pointerEvents: 'none',
         }}
       />
 
       {/* Close-Up Focus: Shri Ram stroking the Squirrel leaving 3 glowing white stripes */}
-      <MadhubaniRama x={220} y={660} scale={1.5} holdingSquirrel={true} isBlessing={true} />
+      <MadhubaniRama x={220} y={430} scale={1.35} holdingSquirrel={true} isBlessing={true} />
 
       {/* Floating Lotus & Marigold Petals */}
       <MadhubaniParticles dust={false} sparks={true} petals={true} />
@@ -82,4 +82,3 @@ export const Scene7Blessing: React.FC = () => {
     </div>
   );
 };
-
