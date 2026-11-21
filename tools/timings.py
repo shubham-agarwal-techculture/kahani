@@ -32,8 +32,14 @@ def extract_word_timings(
     model = WhisperModel(model_size, device="cpu", compute_type="int8")
 
     print(f"Transcribing '{audio_path}' with word timestamps...")
+    from pydub import AudioSegment
+    import numpy as np
+
+    seg = AudioSegment.from_file(audio_path).set_frame_rate(16000).set_channels(1)
+    audio_data = np.array(seg.get_array_of_samples(), dtype=np.float32) / 32768.0
+
     segments, info = model.transcribe(
-        audio_path,
+        audio_data,
         word_timestamps=True,
         language=language,
     )

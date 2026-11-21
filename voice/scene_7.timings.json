@@ -1,0 +1,217 @@
+{
+  "scene": 7,
+  "audio": "voice/scene_7.mp3",
+  "durationMs": 11520,
+  "words": [
+    {
+      "text": "رام",
+      "start": 0.0,
+      "end": 0.44,
+      "startMs": 0,
+      "endMs": 440
+    },
+    {
+      "text": "جینے",
+      "start": 0.44,
+      "end": 0.84,
+      "startMs": 440,
+      "endMs": 840
+    },
+    {
+      "text": "پرین",
+      "start": 0.84,
+      "end": 1.08,
+      "startMs": 840,
+      "endMs": 1080
+    },
+    {
+      "text": "سے",
+      "start": 1.08,
+      "end": 1.26,
+      "startMs": 1080,
+      "endMs": 1260
+    },
+    {
+      "text": "اس",
+      "start": 1.26,
+      "end": 1.54,
+      "startMs": 1260,
+      "endMs": 1540
+    },
+    {
+      "text": "کی",
+      "start": 1.54,
+      "end": 1.66,
+      "startMs": 1540,
+      "endMs": 1660
+    },
+    {
+      "text": "پیٹ",
+      "start": 1.66,
+      "end": 1.98,
+      "startMs": 1660,
+      "endMs": 1980
+    },
+    {
+      "text": "پر",
+      "start": 1.98,
+      "end": 2.24,
+      "startMs": 1980,
+      "endMs": 2240
+    },
+    {
+      "text": "انگلیا",
+      "start": 2.24,
+      "end": 2.68,
+      "startMs": 2240,
+      "endMs": 2680
+    },
+    {
+      "text": "فیری",
+      "start": 2.68,
+      "end": 3.0,
+      "startMs": 2680,
+      "endMs": 3000
+    },
+    {
+      "text": "اور",
+      "start": 3.0,
+      "end": 3.54,
+      "startMs": 3000,
+      "endMs": 3540
+    },
+    {
+      "text": "تین",
+      "start": 3.54,
+      "end": 3.88,
+      "startMs": 3540,
+      "endMs": 3880
+    },
+    {
+      "text": "دیوی",
+      "start": 3.88,
+      "end": 4.18,
+      "startMs": 3880,
+      "endMs": 4180
+    },
+    {
+      "text": "لکیرے",
+      "start": 4.18,
+      "end": 4.6,
+      "startMs": 4180,
+      "endMs": 4600
+    },
+    {
+      "text": "بن",
+      "start": 4.6,
+      "end": 4.74,
+      "startMs": 4600,
+      "endMs": 4740
+    },
+    {
+      "text": "گئی",
+      "start": 4.74,
+      "end": 5.02,
+      "startMs": 4740,
+      "endMs": 5020
+    },
+    {
+      "text": "اگی",
+      "start": 5.8,
+      "end": 6.22,
+      "startMs": 5800,
+      "endMs": 6220
+    },
+    {
+      "text": "بار",
+      "start": 6.22,
+      "end": 6.5,
+      "startMs": 6220,
+      "endMs": 6500
+    },
+    {
+      "text": "جب",
+      "start": 6.5,
+      "end": 6.72,
+      "startMs": 6500,
+      "endMs": 6720
+    },
+    {
+      "text": "تنگل",
+      "start": 6.72,
+      "end": 7.18,
+      "startMs": 6720,
+      "endMs": 7180
+    },
+    {
+      "text": "ہری",
+      "start": 7.18,
+      "end": 7.36,
+      "startMs": 7180,
+      "endMs": 7360
+    },
+    {
+      "text": "دیکھو",
+      "start": 7.36,
+      "end": 7.74,
+      "startMs": 7360,
+      "endMs": 7740
+    },
+    {
+      "text": "تو",
+      "start": 7.74,
+      "end": 7.98,
+      "startMs": 7740,
+      "endMs": 7980
+    },
+    {
+      "text": "دیکھنا",
+      "start": 7.98,
+      "end": 8.44,
+      "startMs": 7980,
+      "endMs": 8440
+    },
+    {
+      "text": "کیا",
+      "start": 8.44,
+      "end": 8.76,
+      "startMs": 8440,
+      "endMs": 8760
+    },
+    {
+      "text": "وہ",
+      "start": 8.76,
+      "end": 8.9,
+      "startMs": 8760,
+      "endMs": 8900
+    },
+    {
+      "text": "لکیرے",
+      "start": 8.9,
+      "end": 9.34,
+      "startMs": 8900,
+      "endMs": 9340
+    },
+    {
+      "text": "تمھے",
+      "start": 9.34,
+      "end": 9.68,
+      "startMs": 9340,
+      "endMs": 9680
+    },
+    {
+      "text": "دیکھتی",
+      "start": 9.68,
+      "end": 10.04,
+      "startMs": 9680,
+      "endMs": 10040
+    },
+    {
+      "text": "ہیں",
+      "start": 10.04,
+      "end": 10.16,
+      "startMs": 10040,
+      "endMs": 10160
+    }
+  ]
+}

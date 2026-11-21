@@ -1,0 +1,98 @@
+{
+  "scene": 3,
+  "audio": "voice/scene_3.mp3",
+  "durationMs": 5232,
+  "words": [
+    {
+      "text": "ہر",
+      "start": 0.0,
+      "end": 0.38,
+      "startMs": 0,
+      "endMs": 380
+    },
+    {
+      "text": "ترف",
+      "start": 0.38,
+      "end": 0.56,
+      "startMs": 380,
+      "endMs": 560
+    },
+    {
+      "text": "دھول",
+      "start": 0.56,
+      "end": 0.94,
+      "startMs": 560,
+      "endMs": 940
+    },
+    {
+      "text": "تھے,",
+      "start": 0.94,
+      "end": 1.24,
+      "startMs": 940,
+      "endMs": 1240
+    },
+    {
+      "text": "گرجنا",
+      "start": 1.42,
+      "end": 1.78,
+      "startMs": 1420,
+      "endMs": 1780
+    },
+    {
+      "text": "تھے,",
+      "start": 1.78,
+      "end": 2.12,
+      "startMs": 1780,
+      "endMs": 2120
+    },
+    {
+      "text": "اور",
+      "start": 2.38,
+      "end": 2.54,
+      "startMs": 2380,
+      "endMs": 2540
+    },
+    {
+      "text": "لنکا",
+      "start": 2.54,
+      "end": 2.86,
+      "startMs": 2540,
+      "endMs": 2860
+    },
+    {
+      "text": "تک",
+      "start": 2.86,
+      "end": 3.08,
+      "startMs": 2860,
+      "endMs": 3080
+    },
+    {
+      "text": "پہنچنے",
+      "start": 3.08,
+      "end": 3.54,
+      "startMs": 3080,
+      "endMs": 3540
+    },
+    {
+      "text": "کی",
+      "start": 3.54,
+      "end": 3.64,
+      "startMs": 3540,
+      "endMs": 3640
+    },
+    {
+      "text": "بیچانی",
+      "start": 3.64,
+      "end": 4.12,
+      "startMs": 3640,
+      "endMs": 4120
+    },
+    {
+      "text": "تھے",
+      "start": 4.12,
+      "end": 4.38,
+      "startMs": 4120,
+      "endMs": 4380
+    }
+  ]
+}

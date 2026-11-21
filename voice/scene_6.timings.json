@@ -1,0 +1,147 @@
+{
+  "scene": 6,
+  "audio": "voice/scene_6.mp3",
+  "durationMs": 8256,
+  "words": [
+    {
+      "text": "تبھی",
+      "start": 0.0,
+      "end": 0.4,
+      "startMs": 0,
+      "endMs": 400
+    },
+    {
+      "text": "شری",
+      "start": 0.4,
+      "end": 0.64,
+      "startMs": 400,
+      "endMs": 640
+    },
+    {
+      "text": "رام",
+      "start": 0.64,
+      "end": 0.92,
+      "startMs": 640,
+      "endMs": 920
+    },
+    {
+      "text": "نے",
+      "start": 0.92,
+      "end": 1.06,
+      "startMs": 920,
+      "endMs": 1060
+    },
+    {
+      "text": "مصورا",
+      "start": 1.06,
+      "end": 1.5,
+      "startMs": 1060,
+      "endMs": 1500
+    },
+    {
+      "text": "کر",
+      "start": 1.5,
+      "end": 1.64,
+      "startMs": 1500,
+      "endMs": 1640
+    },
+    {
+      "text": "اسے",
+      "start": 1.64,
+      "end": 2.14,
+      "startMs": 1640,
+      "endMs": 2140
+    },
+    {
+      "text": "اپنی",
+      "start": 2.14,
+      "end": 2.5,
+      "startMs": 2140,
+      "endMs": 2500
+    },
+    {
+      "text": "حتہلی",
+      "start": 2.5,
+      "end": 2.9,
+      "startMs": 2500,
+      "endMs": 2900
+    },
+    {
+      "text": "پر",
+      "start": 2.9,
+      "end": 3.1,
+      "startMs": 2900,
+      "endMs": 3100
+    },
+    {
+      "text": "اٹھالیا",
+      "start": 3.1,
+      "end": 3.62,
+      "startMs": 3100,
+      "endMs": 3620
+    },
+    {
+      "text": "اور",
+      "start": 3.62,
+      "end": 4.08,
+      "startMs": 3620,
+      "endMs": 4080
+    },
+    {
+      "text": "بولیک",
+      "start": 4.08,
+      "end": 4.54,
+      "startMs": 4080,
+      "endMs": 4540
+    },
+    {
+      "text": "سبامی",
+      "start": 4.54,
+      "end": 5.02,
+      "startMs": 4540,
+      "endMs": 5020
+    },
+    {
+      "text": "شکتی",
+      "start": 5.02,
+      "end": 5.38,
+      "startMs": 5020,
+      "endMs": 5380
+    },
+    {
+      "text": "نہیں",
+      "start": 5.38,
+      "end": 5.54,
+      "startMs": 5380,
+      "endMs": 5540
+    },
+    {
+      "text": "شردھا",
+      "start": 5.54,
+      "end": 6.24,
+      "startMs": 5540,
+      "endMs": 6240
+    },
+    {
+      "text": "دیکھی",
+      "start": 6.24,
+      "end": 6.52,
+      "startMs": 6240,
+      "endMs": 6520
+    },
+    {
+      "text": "جاتی",
+      "start": 6.52,
+      "end": 6.86,
+      "startMs": 6520,
+      "endMs": 6860
+    },
+    {
+      "text": "ہے",
+      "start": 6.86,
+      "end": 7.0,
+      "startMs": 6860,
+      "endMs": 7000
+    }
+  ]
+}

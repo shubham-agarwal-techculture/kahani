@@ -2,6 +2,7 @@ import React from 'react';
 import { Composition } from 'remotion';
 import { ReelScene } from './Composition';
 import { RamSetuStory } from './RamSetuStory';
+import { RamSetuStoryWithAudio } from './RamSetuStoryWithAudio';
 import { Scene1Question } from './scenes/Scene1Question';
 import { Scene2Setting } from './scenes/Scene2Setting';
 import { Scene3Problem } from './scenes/Scene3Problem';
@@ -13,7 +14,18 @@ import { Scene7Blessing } from './scenes/Scene7Blessing';
 export const RemotionRoot: React.FC = () => {
   return (
     <>
-      {/* 45-Second Master Reel (1350 frames @ 30fps) */}
+      {/* ── FINAL REEL WITH AUDIO + TIMED CAPTIONS (53.7s / 1612 frames) ── */}
+      <Composition
+        id="RamSetuReelFinal"
+        component={RamSetuStoryWithAudio}
+        durationInFrames={1612}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{}}
+      />
+
+      {/* 45-Second mute master (original, no audio) */}
       <Composition
         id="RamSetuReel"
         component={RamSetuStory}

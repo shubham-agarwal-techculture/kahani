@@ -1,0 +1,112 @@
+{
+  "scene": 2,
+  "audio": "voice/scene_2.mp3",
+  "durationMs": 6240,
+  "words": [
+    {
+      "text": "Rameshwaram",
+      "start": 0.0,
+      "end": 0.8,
+      "startMs": 0,
+      "endMs": 800
+    },
+    {
+      "text": "ka",
+      "start": 0.8,
+      "end": 0.92,
+      "startMs": 800,
+      "endMs": 920
+    },
+    {
+      "text": "kinarat",
+      "start": 0.92,
+      "end": 1.4,
+      "startMs": 920,
+      "endMs": 1400
+    },
+    {
+      "text": "tha,",
+      "start": 1.4,
+      "end": 1.6,
+      "startMs": 1400,
+      "endMs": 1600
+    },
+    {
+      "text": "جہا",
+      "start": 1.92,
+      "end": 2.14,
+      "startMs": 1920,
+      "endMs": 2140
+    },
+    {
+      "text": "وانرسینہ",
+      "start": 2.14,
+      "end": 2.82,
+      "startMs": 2140,
+      "endMs": 2820
+    },
+    {
+      "text": "ویشال",
+      "start": 2.82,
+      "end": 3.14,
+      "startMs": 2820,
+      "endMs": 3140
+    },
+    {
+      "text": "پروت",
+      "start": 3.14,
+      "end": 3.54,
+      "startMs": 3140,
+      "endMs": 3540
+    },
+    {
+      "text": "اٹھا",
+      "start": 3.54,
+      "end": 3.82,
+      "startMs": 3540,
+      "endMs": 3820
+    },
+    {
+      "text": "کر",
+      "start": 3.82,
+      "end": 4.04,
+      "startMs": 3820,
+      "endMs": 4040
+    },
+    {
+      "text": "سمندر",
+      "start": 4.04,
+      "end": 4.56,
+      "startMs": 4040,
+      "endMs": 4560
+    },
+    {
+      "text": "میں",
+      "start": 4.56,
+      "end": 4.68,
+      "startMs": 4560,
+      "endMs": 4680
+    },
+    {
+      "text": "دال",
+      "start": 4.68,
+      "end": 4.88,
+      "startMs": 4680,
+      "endMs": 4880
+    },
+    {
+      "text": "رہی",
+      "start": 4.88,
+      "end": 5.14,
+      "startMs": 4880,
+      "endMs": 5140
+    },
+    {
+      "text": "تھے",
+      "start": 5.14,
+      "end": 5.4,
+      "startMs": 5140,
+      "endMs": 5400
+    }
+  ]
+}

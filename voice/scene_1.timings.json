@@ -1,0 +1,98 @@
+{
+  "scene": 1,
+  "audio": "voice/scene_1.mp3",
+  "durationMs": 5352,
+  "words": [
+    {
+      "text": "کیا",
+      "start": 0.0,
+      "end": 0.38,
+      "startMs": 0,
+      "endMs": 380
+    },
+    {
+      "text": "ایک",
+      "start": 0.38,
+      "end": 0.64,
+      "startMs": 380,
+      "endMs": 640
+    },
+    {
+      "text": "مدھی",
+      "start": 0.64,
+      "end": 0.98,
+      "startMs": 640,
+      "endMs": 980
+    },
+    {
+      "text": "بھر",
+      "start": 0.98,
+      "end": 1.18,
+      "startMs": 980,
+      "endMs": 1180
+    },
+    {
+      "text": "گلہری",
+      "start": 1.18,
+      "end": 1.58,
+      "startMs": 1180,
+      "endMs": 1580
+    },
+    {
+      "text": "ویشال",
+      "start": 1.58,
+      "end": 1.94,
+      "startMs": 1580,
+      "endMs": 1940
+    },
+    {
+      "text": "سمندھر",
+      "start": 1.94,
+      "end": 2.5,
+      "startMs": 1940,
+      "endMs": 2500
+    },
+    {
+      "text": "پتھر",
+      "start": 2.5,
+      "end": 3.06,
+      "startMs": 2500,
+      "endMs": 3060
+    },
+    {
+      "text": "کا",
+      "start": 3.06,
+      "end": 3.18,
+      "startMs": 3060,
+      "endMs": 3180
+    },
+    {
+      "text": "کل",
+      "start": 3.18,
+      "end": 3.42,
+      "startMs": 3180,
+      "endMs": 3420
+    },
+    {
+      "text": "بنا",
+      "start": 3.42,
+      "end": 3.58,
+      "startMs": 3420,
+      "endMs": 3580
+    },
+    {
+      "text": "سکتی",
+      "start": 3.58,
+      "end": 4.0,
+      "startMs": 3580,
+      "endMs": 4000
+    },
+    {
+      "text": "ہے",
+      "start": 4.0,
+      "end": 4.1,
+      "startMs": 4000,
+      "endMs": 4100
+    }
+  ]
+}
