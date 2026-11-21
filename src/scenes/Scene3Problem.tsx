@@ -5,16 +5,13 @@ import { MadhubaniTree } from '../components/madhubani/MadhubaniTree';
 import { MadhubaniWater } from '../components/madhubani/MadhubaniWater';
 import { MadhubaniVanar } from '../components/madhubani/MadhubaniVanar';
 import { MadhubaniParticles } from '../components/madhubani/MadhubaniParticles';
-import { MadhubaniCaptions } from '../components/madhubani/MadhubaniCaptions';
+
 
 export const Scene3Problem: React.FC = () => {
   const frame = useCurrentFrame();
-  const progress = Math.min(1, Math.max(0, frame / 180));
 
   // Dynamic rock splash falling
   const rockY = Math.min(380, frame * 5.5);
-
-  const spokenText = "Har taraf dhool thi, garjana thi, aur Lanka tak pahunchne ki bechaini thi.";
 
   return (
     <div
@@ -90,9 +87,6 @@ export const Scene3Problem: React.FC = () => {
 
       {/* Heavy dust and spark motion */}
       <MadhubaniParticles dust={true} sparks={true} petals={false} />
-
-      {/* Captions inside safe zone */}
-      <MadhubaniCaptions text={spokenText} progress={progress} />
 
       {/* Border */}
       <MadhubaniBorder />

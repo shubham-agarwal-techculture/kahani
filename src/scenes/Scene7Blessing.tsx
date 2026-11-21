@@ -1,15 +1,10 @@
 import React from 'react';
-import { useCurrentFrame } from 'remotion';
 import { MadhubaniBorder } from '../components/madhubani/MadhubaniBorder';
 import { MadhubaniRama } from '../components/madhubani/MadhubaniRama';
 import { MadhubaniParticles } from '../components/madhubani/MadhubaniParticles';
-import { MadhubaniCaptions } from '../components/madhubani/MadhubaniCaptions';
+
 
 export const Scene7Blessing: React.FC = () => {
-  const frame = useCurrentFrame();
-  const progress = Math.min(1, Math.max(0, frame / 180));
-
-  const spokenText = "Ram ji ne prem se uski peeth par ungliyan pheri, aur teen divya lakirein ban gayi. Agli baar jab tum gilahri dekho, to dekhna—kya wo lakirein tumhe dikhti hain?";
 
   return (
     <div
@@ -73,9 +68,6 @@ export const Scene7Blessing: React.FC = () => {
           ✦ DIL KA SAMARPAN HI SABSE BADA HAI ✦
         </span>
       </div>
-
-      {/* Captions inside safe zone */}
-      <MadhubaniCaptions text={spokenText} progress={progress} />
 
       {/* Border */}
       <MadhubaniBorder />

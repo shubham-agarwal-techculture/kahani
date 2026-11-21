@@ -1,18 +1,13 @@
 import React from 'react';
-import { useCurrentFrame } from 'remotion';
 import { MadhubaniBorder } from '../components/madhubani/MadhubaniBorder';
 import { MadhubaniSun } from '../components/madhubani/MadhubaniSun';
 import { MadhubaniTree } from '../components/madhubani/MadhubaniTree';
 import { MadhubaniWater } from '../components/madhubani/MadhubaniWater';
 import { MadhubaniVanar } from '../components/madhubani/MadhubaniVanar';
 import { MadhubaniParticles } from '../components/madhubani/MadhubaniParticles';
-import { MadhubaniCaptions } from '../components/madhubani/MadhubaniCaptions';
+
 
 export const Scene2Setting: React.FC = () => {
-  const frame = useCurrentFrame();
-  const progress = Math.min(1, Math.max(0, frame / 180));
-
-  const spokenText = "Rameshwaram ka kinara tha, jahan vanar sena vishaal parvat utha kar samundar mein daal rahi thi.";
 
   return (
     <div
@@ -55,9 +50,6 @@ export const Scene2Setting: React.FC = () => {
 
       {/* Floating dust & spark particles */}
       <MadhubaniParticles dust={true} sparks={true} petals={false} />
-
-      {/* Captions inside safe zone */}
-      <MadhubaniCaptions text={spokenText} progress={progress} />
 
       {/* Madhubani Frame Border */}
       <MadhubaniBorder />

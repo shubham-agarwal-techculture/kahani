@@ -5,17 +5,14 @@ import { MadhubaniSun } from '../components/madhubani/MadhubaniSun';
 import { MadhubaniWater } from '../components/madhubani/MadhubaniWater';
 import { MadhubaniSquirrel } from '../components/madhubani/MadhubaniSquirrel';
 import { MadhubaniParticles } from '../components/madhubani/MadhubaniParticles';
-import { MadhubaniCaptions } from '../components/madhubani/MadhubaniCaptions';
+
 
 export const Scene1Question: React.FC = () => {
   const frame = useCurrentFrame();
-  const progress = Math.min(1, Math.max(0, frame / 180));
 
   // Subtle breathing and drift
   const boulderDrift = Math.sin(frame * 0.04) * 8;
   const squirrelHop = Math.abs(Math.sin(frame * 0.12)) * 5;
-
-  const spokenText = "Kya ek mutthi-bhar gilahri vishaal samundar par pathar ka pul bana sakti hai?";
 
   return (
     <div
@@ -137,9 +134,6 @@ export const Scene1Question: React.FC = () => {
 
       {/* Floating particles */}
       <MadhubaniParticles dust={true} sparks={false} petals={false} />
-
-      {/* Dynamic 3-4 word captions inside safe zone */}
-      <MadhubaniCaptions text={spokenText} progress={progress} />
 
       {/* Decorative Traditional Madhubani Double Border */}
       <MadhubaniBorder />

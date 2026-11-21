@@ -5,17 +5,14 @@ import { MadhubaniSun } from '../components/madhubani/MadhubaniSun';
 import { MadhubaniWater } from '../components/madhubani/MadhubaniWater';
 import { MadhubaniSquirrel } from '../components/madhubani/MadhubaniSquirrel';
 import { MadhubaniParticles } from '../components/madhubani/MadhubaniParticles';
-import { MadhubaniCaptions } from '../components/madhubani/MadhubaniCaptions';
+
 
 export const Scene4Turn: React.FC = () => {
   const frame = useCurrentFrame();
-  const progress = Math.min(1, Math.max(0, frame / 210));
 
   // Determine squirrel action: 0-70 frames standing/dipping, 70-140 rolling, 140-210 shaking
   const squirrelPose = frame < 70 ? 'standing' : frame < 140 ? 'rolling' : 'shaking';
   const squirrelX = 360 + Math.sin(frame * 0.08) * 50;
-
-  const spokenText = "Tabhi ek nanhi gilahri paani mein bheegti, ret par lot ti . aur apne shareer se do-do daane pul par jhaad aati.";
 
   return (
     <div
@@ -81,9 +78,6 @@ export const Scene4Turn: React.FC = () => {
 
       {/* Sand Dust Particles */}
       <MadhubaniParticles dust={true} sparks={false} petals={false} />
-
-      {/* Captions inside safe zone */}
-      <MadhubaniCaptions text={spokenText} progress={progress} />
 
       {/* Border */}
       <MadhubaniBorder />

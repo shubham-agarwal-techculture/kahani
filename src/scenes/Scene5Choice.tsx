@@ -1,17 +1,12 @@
 import React from 'react';
-import { useCurrentFrame } from 'remotion';
 import { MadhubaniBorder } from '../components/madhubani/MadhubaniBorder';
 import { MadhubaniVanar } from '../components/madhubani/MadhubaniVanar';
 import { MadhubaniSquirrel } from '../components/madhubani/MadhubaniSquirrel';
 import { MadhubaniWater } from '../components/madhubani/MadhubaniWater';
 import { MadhubaniParticles } from '../components/madhubani/MadhubaniParticles';
-import { MadhubaniCaptions } from '../components/madhubani/MadhubaniCaptions';
+
 
 export const Scene5Choice: React.FC = () => {
-  const frame = useCurrentFrame();
-  const progress = Math.min(1, Math.max(0, frame / 180));
-
-  const spokenText = "Ek balwaan vanar ne gusse mein kaha—'Aye chhoti! Hat raste se, tere do daanon se kya Ram Setu banega?'";
 
   return (
     <div
@@ -53,9 +48,6 @@ export const Scene5Choice: React.FC = () => {
 
       {/* Subtle dust particles */}
       <MadhubaniParticles dust={true} sparks={false} petals={false} />
-
-      {/* Captions inside safe zone */}
-      <MadhubaniCaptions text={spokenText} progress={progress} />
 
       {/* Border */}
       <MadhubaniBorder />

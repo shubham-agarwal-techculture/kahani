@@ -1,17 +1,12 @@
 import React from 'react';
-import { useCurrentFrame } from 'remotion';
 import { MadhubaniBorder } from '../components/madhubani/MadhubaniBorder';
 import { MadhubaniRama } from '../components/madhubani/MadhubaniRama';
 import { MadhubaniTree } from '../components/madhubani/MadhubaniTree';
 import { MadhubaniWater } from '../components/madhubani/MadhubaniWater';
 import { MadhubaniParticles } from '../components/madhubani/MadhubaniParticles';
-import { MadhubaniCaptions } from '../components/madhubani/MadhubaniCaptions';
+
 
 export const Scene6Answer: React.FC = () => {
-  const frame = useCurrentFrame();
-  const progress = Math.min(1, Math.max(0, frame / 240));
-
-  const spokenText = "Tabhi Shri Ram ne muskurakar use apni hatheli par utha liya, aur bole—'Seva mein shakti nahi, shraddha dekhi jaati hai.'";
 
   return (
     <div
@@ -49,9 +44,6 @@ export const Scene6Answer: React.FC = () => {
 
       {/* Divine Falling Petals & Ascending Golden Sparks */}
       <MadhubaniParticles dust={false} sparks={true} petals={true} />
-
-      {/* Captions inside safe zone */}
-      <MadhubaniCaptions text={spokenText} progress={progress} />
 
       {/* Border */}
       <MadhubaniBorder />
