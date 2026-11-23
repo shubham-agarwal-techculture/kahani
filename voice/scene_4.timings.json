@@ -1,161 +1,154 @@
 {
   "scene": 4,
   "audio": "voice/scene_4.mp3",
-  "durationMs": 7512,
+  "durationMs": 8673,
   "words": [
     {
-      "text": "تو",
+      "text": "تبھی",
       "start": 0.0,
-      "end": 0.26,
+      "end": 0.36,
       "startMs": 0,
-      "endMs": 260
-    },
-    {
-      "text": "بھی",
-      "start": 0.26,
-      "end": 0.42,
-      "startMs": 260,
-      "endMs": 420
+      "endMs": 360
     },
     {
       "text": "ایک",
-      "start": 0.42,
-      "end": 0.74,
-      "startMs": 420,
-      "endMs": 740
+      "start": 0.36,
+      "end": 0.68,
+      "startMs": 360,
+      "endMs": 680
     },
     {
-      "text": "ننحی",
-      "start": 0.74,
-      "end": 1.08,
-      "startMs": 740,
-      "endMs": 1080
+      "text": "ننلیگی",
+      "start": 0.68,
+      "end": 1.28,
+      "startMs": 680,
+      "endMs": 1280
     },
     {
-      "text": "گلھری",
-      "start": 1.08,
-      "end": 1.46,
-      "startMs": 1080,
-      "endMs": 1460
+      "text": "لہری,",
+      "start": 1.28,
+      "end": 1.62,
+      "startMs": 1280,
+      "endMs": 1620
     },
     {
       "text": "پانی",
-      "start": 1.46,
-      "end": 1.8,
-      "startMs": 1460,
-      "endMs": 1800
+      "start": 2.1,
+      "end": 2.42,
+      "startMs": 2100,
+      "endMs": 2420
     },
     {
       "text": "میں",
-      "start": 1.8,
-      "end": 1.96,
-      "startMs": 1800,
-      "endMs": 1960
+      "start": 2.42,
+      "end": 2.58,
+      "startMs": 2420,
+      "endMs": 2580
     },
     {
       "text": "بھیگتی,",
-      "start": 1.96,
-      "end": 2.48,
-      "startMs": 1960,
-      "endMs": 2480
+      "start": 2.58,
+      "end": 3.24,
+      "startMs": 2580,
+      "endMs": 3240
     },
     {
       "text": "ریت",
-      "start": 2.8,
-      "end": 3.06,
-      "startMs": 2800,
-      "endMs": 3060
+      "start": 3.7,
+      "end": 3.92,
+      "startMs": 3700,
+      "endMs": 3920
     },
     {
       "text": "پر",
-      "start": 3.06,
-      "end": 3.22,
-      "startMs": 3060,
-      "endMs": 3220
+      "start": 3.92,
+      "end": 4.16,
+      "startMs": 3920,
+      "endMs": 4160
     },
     {
-      "text": "لوتی",
-      "start": 3.22,
-      "end": 3.62,
-      "startMs": 3220,
-      "endMs": 3620
+      "text": "لوٹتی",
+      "start": 4.16,
+      "end": 4.72,
+      "startMs": 4160,
+      "endMs": 4720
     },
     {
       "text": "اور",
-      "start": 3.62,
-      "end": 4.1,
-      "startMs": 3620,
-      "endMs": 4100
-    },
-    {
-      "text": "اپنے",
-      "start": 4.1,
-      "end": 4.54,
-      "startMs": 4100,
-      "endMs": 4540
-    },
-    {
-      "text": "شریع",
-      "start": 4.54,
-      "end": 4.76,
-      "startMs": 4540,
-      "endMs": 4760
-    },
-    {
-      "text": "سے",
-      "start": 4.76,
-      "end": 5.02,
-      "startMs": 4760,
-      "endMs": 5020
-    },
-    {
-      "text": "دو",
-      "start": 5.02,
+      "start": 4.72,
       "end": 5.2,
-      "startMs": 5020,
+      "startMs": 4720,
       "endMs": 5200
     },
     {
-      "text": "دو",
+      "text": "اپنے",
       "start": 5.2,
-      "end": 5.3,
+      "end": 5.52,
       "startMs": 5200,
-      "endMs": 5300
+      "endMs": 5520
+    },
+    {
+      "text": "شریر",
+      "start": 5.52,
+      "end": 5.9,
+      "startMs": 5520,
+      "endMs": 5900
+    },
+    {
+      "text": "سے",
+      "start": 5.9,
+      "end": 6.12,
+      "startMs": 5900,
+      "endMs": 6120
+    },
+    {
+      "text": "دو",
+      "start": 6.12,
+      "end": 6.46,
+      "startMs": 6120,
+      "endMs": 6460
+    },
+    {
+      "text": "دو",
+      "start": 6.46,
+      "end": 6.6,
+      "startMs": 6460,
+      "endMs": 6600
     },
     {
       "text": "دانے",
-      "start": 5.3,
-      "end": 5.66,
-      "startMs": 5300,
-      "endMs": 5660
+      "start": 6.6,
+      "end": 7.06,
+      "startMs": 6600,
+      "endMs": 7060
     },
     {
       "text": "پول",
-      "start": 5.66,
-      "end": 5.84,
-      "startMs": 5660,
-      "endMs": 5840
+      "start": 7.06,
+      "end": 7.44,
+      "startMs": 7060,
+      "endMs": 7440
     },
     {
       "text": "پر",
-      "start": 5.84,
-      "end": 6.06,
-      "startMs": 5840,
-      "endMs": 6060
+      "start": 7.44,
+      "end": 7.7,
+      "startMs": 7440,
+      "endMs": 7700
     },
     {
       "text": "جھا",
-      "start": 6.06,
-      "end": 6.26,
-      "startMs": 6060,
-      "endMs": 6260
+      "start": 7.7,
+      "end": 7.98,
+      "startMs": 7700,
+      "endMs": 7980
     },
     {
-      "text": "راتی.",
-      "start": 6.26,
-      "end": 6.62,
-      "startMs": 6260,
-      "endMs": 6620
+      "text": "رہتی",
+      "start": 7.98,
+      "end": 8.4,
+      "startMs": 7980,
+      "endMs": 8400
     }
   ]
 }

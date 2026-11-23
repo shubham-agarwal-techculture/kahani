@@ -1,154 +1,161 @@
 {
   "scene": 5,
   "audio": "voice/scene_5.mp3",
-  "durationMs": 7488,
+  "durationMs": 7314,
   "words": [
     {
       "text": "ایک",
       "start": 0.0,
-      "end": 0.4,
+      "end": 0.3,
       "startMs": 0,
-      "endMs": 400
+      "endMs": 300
     },
     {
       "text": "بلوان",
-      "start": 0.4,
+      "start": 0.3,
       "end": 0.82,
-      "startMs": 400,
+      "startMs": 300,
       "endMs": 820
     },
     {
       "text": "وانر",
       "start": 0.82,
-      "end": 1.12,
+      "end": 1.18,
       "startMs": 820,
-      "endMs": 1120
+      "endMs": 1180
     },
     {
-      "text": "میں",
-      "start": 1.12,
-      "end": 1.3,
-      "startMs": 1120,
-      "endMs": 1300
+      "text": "نے",
+      "start": 1.18,
+      "end": 1.34,
+      "startMs": 1180,
+      "endMs": 1340
     },
     {
       "text": "گس",
-      "start": 1.3,
-      "end": 1.56,
-      "startMs": 1300,
-      "endMs": 1560
+      "start": 1.34,
+      "end": 1.72,
+      "startMs": 1340,
+      "endMs": 1720
     },
     {
       "text": "سے",
-      "start": 1.56,
-      "end": 1.68,
-      "startMs": 1560,
-      "endMs": 1680
+      "start": 1.72,
+      "end": 1.82,
+      "startMs": 1720,
+      "endMs": 1820
     },
     {
       "text": "میں",
-      "start": 1.68,
-      "end": 1.76,
-      "startMs": 1680,
-      "endMs": 1760
+      "start": 1.82,
+      "end": 1.92,
+      "startMs": 1820,
+      "endMs": 1920
     },
     {
-      "text": "کہہ",
-      "start": 1.76,
-      "end": 2.12,
-      "startMs": 1760,
-      "endMs": 2120
+      "text": "کہا.",
+      "start": 1.92,
+      "end": 2.16,
+      "startMs": 1920,
+      "endMs": 2160
     },
     {
-      "text": "اٹھ",
-      "start": 2.12,
-      "end": 2.52,
-      "startMs": 2120,
-      "endMs": 2520
+      "text": "ایچھا",
+      "start": 2.56,
+      "end": 3.06,
+      "startMs": 2560,
+      "endMs": 3060
     },
     {
-      "text": "ہوتی.",
-      "start": 2.52,
-      "end": 2.84,
-      "startMs": 2520,
-      "endMs": 2840
+      "text": "چھوٹی,",
+      "start": 3.06,
+      "end": 3.28,
+      "startMs": 3060,
+      "endMs": 3280
     },
     {
       "text": "ہٹھ",
-      "start": 3.68,
-      "end": 3.9,
-      "startMs": 3680,
-      "endMs": 3900
+      "start": 3.74,
+      "end": 3.94,
+      "startMs": 3740,
+      "endMs": 3940
     },
     {
-      "text": "راستی",
-      "start": 3.9,
-      "end": 4.24,
-      "startMs": 3900,
-      "endMs": 4240
+      "text": "راستے",
+      "start": 3.94,
+      "end": 4.26,
+      "startMs": 3940,
+      "endMs": 4260
     },
     {
-      "text": "سے",
-      "start": 4.24,
-      "end": 4.4,
-      "startMs": 4240,
-      "endMs": 4400
+      "text": "سے.",
+      "start": 4.26,
+      "end": 4.42,
+      "startMs": 4260,
+      "endMs": 4420
     },
     {
-      "text": "تیرے",
-      "start": 4.4,
-      "end": 4.78,
-      "startMs": 4400,
-      "endMs": 4780
+      "text": "Тیرے",
+      "start": 4.9,
+      "end": 5.24,
+      "startMs": 4900,
+      "endMs": 5240
+    },
+    {
+      "text": "دو",
+      "start": 5.24,
+      "end": 5.46,
+      "startMs": 5240,
+      "endMs": 5460
     },
     {
       "text": "دانوں",
-      "start": 4.78,
-      "end": 5.28,
-      "startMs": 4780,
-      "endMs": 5280
+      "start": 5.46,
+      "end": 5.78,
+      "startMs": 5460,
+      "endMs": 5780
     },
     {
       "text": "سے",
-      "start": 5.28,
-      "end": 5.44,
-      "startMs": 5280,
-      "endMs": 5440
+      "start": 5.78,
+      "end": 5.92,
+      "startMs": 5780,
+      "endMs": 5920
     },
     {
       "text": "کیا",
-      "start": 5.44,
-      "end": 5.7,
-      "startMs": 5440,
-      "endMs": 5700
+      "start": 5.92,
+      "end": 6.12,
+      "startMs": 5920,
+      "endMs": 6120
     },
     {
       "text": "رام",
-      "start": 5.7,
-      "end": 5.88,
-      "startMs": 5700,
-      "endMs": 5880
+      "start": 6.12,
+      "end": 6.4,
+      "startMs": 6120,
+      "endMs": 6400
     },
     {
       "text": "سے",
-      "start": 5.88,
-      "end": 6.06,
-      "startMs": 5880,
-      "endMs": 6060
+      "start": 6.4,
+      "end": 6.54,
+      "startMs": 6400,
+      "endMs": 6540
     },
     {
       "text": "تبنے",
-      "start": 6.06,
-      "end": 6.46,
-      "startMs": 6060,
-      "endMs": 6460
+      "start": 6.54,
+      "end": 6.88,
+      "startMs": 6540,
+      "endMs": 6880
     },
     {
       "text": "گا.",
-      "start": 6.46,
-      "end": 6.62,
-      "startMs": 6460,
-      "endMs": 6620
+      "start": 6.88,
+      "end": 7.02,
+      "startMs": 6880,
+      "endMs": 7020
     }
   ]
 }

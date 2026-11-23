@@ -1,147 +1,161 @@
 {
   "scene": 6,
   "audio": "voice/scene_6.mp3",
-  "durationMs": 8256,
+  "durationMs": 9326,
   "words": [
     {
       "text": "تبھی",
       "start": 0.0,
-      "end": 0.4,
+      "end": 0.36,
       "startMs": 0,
-      "endMs": 400
+      "endMs": 360
     },
     {
-      "text": "شری",
-      "start": 0.4,
-      "end": 0.64,
-      "startMs": 400,
-      "endMs": 640
+      "text": "شریر",
+      "start": 0.36,
+      "end": 0.74,
+      "startMs": 360,
+      "endMs": 740
     },
     {
-      "text": "رام",
-      "start": 0.64,
-      "end": 0.92,
-      "startMs": 640,
-      "endMs": 920
+      "text": "آم",
+      "start": 0.74,
+      "end": 0.94,
+      "startMs": 740,
+      "endMs": 940
     },
     {
       "text": "نے",
-      "start": 0.92,
-      "end": 1.06,
-      "startMs": 920,
-      "endMs": 1060
+      "start": 0.94,
+      "end": 1.08,
+      "startMs": 940,
+      "endMs": 1080
     },
     {
-      "text": "مصورا",
-      "start": 1.06,
-      "end": 1.5,
-      "startMs": 1060,
-      "endMs": 1500
+      "text": "مسکورا",
+      "start": 1.08,
+      "end": 1.58,
+      "startMs": 1080,
+      "endMs": 1580
     },
     {
       "text": "کر",
-      "start": 1.5,
-      "end": 1.64,
-      "startMs": 1500,
-      "endMs": 1640
+      "start": 1.58,
+      "end": 1.8,
+      "startMs": 1580,
+      "endMs": 1800
     },
     {
       "text": "اسے",
-      "start": 1.64,
-      "end": 2.14,
-      "startMs": 1640,
-      "endMs": 2140
+      "start": 1.8,
+      "end": 2.44,
+      "startMs": 1800,
+      "endMs": 2440
     },
     {
       "text": "اپنی",
-      "start": 2.14,
-      "end": 2.5,
-      "startMs": 2140,
-      "endMs": 2500
+      "start": 2.44,
+      "end": 2.72,
+      "startMs": 2440,
+      "endMs": 2720
     },
     {
       "text": "حتہلی",
-      "start": 2.5,
-      "end": 2.9,
-      "startMs": 2500,
-      "endMs": 2900
+      "start": 2.72,
+      "end": 3.2,
+      "startMs": 2720,
+      "endMs": 3200
     },
     {
       "text": "پر",
-      "start": 2.9,
-      "end": 3.1,
-      "startMs": 2900,
-      "endMs": 3100
+      "start": 3.2,
+      "end": 3.38,
+      "startMs": 3200,
+      "endMs": 3380
     },
     {
-      "text": "اٹھالیا",
-      "start": 3.1,
-      "end": 3.62,
-      "startMs": 3100,
-      "endMs": 3620
+      "text": "اٹھا",
+      "start": 3.38,
+      "end": 3.64,
+      "startMs": 3380,
+      "endMs": 3640
+    },
+    {
+      "text": "لیا",
+      "start": 3.64,
+      "end": 3.9,
+      "startMs": 3640,
+      "endMs": 3900
     },
     {
       "text": "اور",
-      "start": 3.62,
-      "end": 4.08,
-      "startMs": 3620,
-      "endMs": 4080
+      "start": 3.9,
+      "end": 4.48,
+      "startMs": 3900,
+      "endMs": 4480
     },
     {
-      "text": "بولیک",
-      "start": 4.08,
-      "end": 4.54,
-      "startMs": 4080,
-      "endMs": 4540
+      "text": "بولے",
+      "start": 4.48,
+      "end": 4.9,
+      "startMs": 4480,
+      "endMs": 4900
     },
     {
-      "text": "سبامی",
-      "start": 4.54,
-      "end": 5.02,
-      "startMs": 4540,
-      "endMs": 5020
+      "text": "سیوا",
+      "start": 4.9,
+      "end": 5.96,
+      "startMs": 4900,
+      "endMs": 5960
+    },
+    {
+      "text": "میں",
+      "start": 5.96,
+      "end": 6.16,
+      "startMs": 5960,
+      "endMs": 6160
     },
     {
       "text": "شکتی",
-      "start": 5.02,
-      "end": 5.38,
-      "startMs": 5020,
-      "endMs": 5380
+      "start": 6.16,
+      "end": 6.66,
+      "startMs": 6160,
+      "endMs": 6660
     },
     {
       "text": "نہیں",
-      "start": 5.38,
-      "end": 5.54,
-      "startMs": 5380,
-      "endMs": 5540
+      "start": 6.66,
+      "end": 6.84,
+      "startMs": 6660,
+      "endMs": 6840
     },
     {
       "text": "شردھا",
-      "start": 5.54,
-      "end": 6.24,
-      "startMs": 5540,
-      "endMs": 6240
+      "start": 6.84,
+      "end": 8.12,
+      "startMs": 6840,
+      "endMs": 8120
     },
     {
       "text": "دیکھی",
-      "start": 6.24,
-      "end": 6.52,
-      "startMs": 6240,
-      "endMs": 6520
+      "start": 8.12,
+      "end": 8.44,
+      "startMs": 8120,
+      "endMs": 8440
     },
     {
       "text": "جاتی",
-      "start": 6.52,
-      "end": 6.86,
-      "startMs": 6520,
-      "endMs": 6860
+      "start": 8.44,
+      "end": 8.78,
+      "startMs": 8440,
+      "endMs": 8780
     },
     {
       "text": "ہے",
-      "start": 6.86,
-      "end": 7.0,
-      "startMs": 6860,
-      "endMs": 7000
+      "start": 8.78,
+      "end": 8.94,
+      "startMs": 8780,
+      "endMs": 8940
     }
   ]
 }

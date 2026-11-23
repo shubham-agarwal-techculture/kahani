@@ -14,11 +14,11 @@ import { Scene7Blessing } from './scenes/Scene7Blessing';
 export const RemotionRoot: React.FC = () => {
   return (
     <>
-      {/* ── FINAL REEL WITH AUDIO + TIMED CAPTIONS (53.7s / 1612 frames) ── */}
+      {/* ── FINAL REEL WITH AUDIO + TIMED CAPTIONS (57.7s / 1732 frames) ── */}
       <Composition
         id="RamSetuReelFinal"
         component={RamSetuStoryWithAudio}
-        durationInFrames={1612}
+        durationInFrames={1732}
         fps={30}
         width={1080}
         height={1920}

@@ -1,98 +1,112 @@
 {
   "scene": 3,
   "audio": "voice/scene_3.mp3",
-  "durationMs": 5232,
+  "durationMs": 6113,
   "words": [
     {
       "text": "ہر",
       "start": 0.0,
-      "end": 0.38,
+      "end": 0.3,
       "startMs": 0,
-      "endMs": 380
+      "endMs": 300
     },
     {
       "text": "ترف",
-      "start": 0.38,
-      "end": 0.56,
-      "startMs": 380,
-      "endMs": 560
+      "start": 0.3,
+      "end": 0.54,
+      "startMs": 300,
+      "endMs": 540
     },
     {
       "text": "دھول",
-      "start": 0.56,
-      "end": 0.94,
-      "startMs": 560,
-      "endMs": 940
+      "start": 0.54,
+      "end": 1.12,
+      "startMs": 540,
+      "endMs": 1120
     },
     {
       "text": "تھے,",
-      "start": 0.94,
-      "end": 1.24,
-      "startMs": 940,
-      "endMs": 1240
+      "start": 1.12,
+      "end": 1.52,
+      "startMs": 1120,
+      "endMs": 1520
     },
     {
       "text": "گرجنا",
-      "start": 1.42,
-      "end": 1.78,
-      "startMs": 1420,
-      "endMs": 1780
-    },
-    {
-      "text": "تھے,",
-      "start": 1.78,
-      "end": 2.12,
-      "startMs": 1780,
-      "endMs": 2120
-    },
-    {
-      "text": "اور",
-      "start": 2.38,
-      "end": 2.54,
-      "startMs": 2380,
-      "endMs": 2540
-    },
-    {
-      "text": "لنکا",
-      "start": 2.54,
-      "end": 2.86,
-      "startMs": 2540,
-      "endMs": 2860
-    },
-    {
-      "text": "تک",
-      "start": 2.86,
-      "end": 3.08,
-      "startMs": 2860,
-      "endMs": 3080
-    },
-    {
-      "text": "پہنچنے",
-      "start": 3.08,
-      "end": 3.54,
-      "startMs": 3080,
-      "endMs": 3540
-    },
-    {
-      "text": "کی",
-      "start": 3.54,
-      "end": 3.64,
-      "startMs": 3540,
-      "endMs": 3640
-    },
-    {
-      "text": "بیچانی",
-      "start": 3.64,
-      "end": 4.12,
-      "startMs": 3640,
-      "endMs": 4120
+      "start": 2.02,
+      "end": 2.46,
+      "startMs": 2020,
+      "endMs": 2460
     },
     {
       "text": "تھے",
-      "start": 4.12,
-      "end": 4.38,
-      "startMs": 4120,
-      "endMs": 4380
+      "start": 2.46,
+      "end": 2.9,
+      "startMs": 2460,
+      "endMs": 2900
+    },
+    {
+      "text": "اور",
+      "start": 2.9,
+      "end": 3.54,
+      "startMs": 2900,
+      "endMs": 3540
+    },
+    {
+      "text": "لنگ",
+      "start": 3.54,
+      "end": 3.96,
+      "startMs": 3540,
+      "endMs": 3960
+    },
+    {
+      "text": "کا",
+      "start": 3.96,
+      "end": 4.04,
+      "startMs": 3960,
+      "endMs": 4040
+    },
+    {
+      "text": "تک",
+      "start": 4.04,
+      "end": 4.28,
+      "startMs": 4040,
+      "endMs": 4280
+    },
+    {
+      "text": "پہنچنے",
+      "start": 4.28,
+      "end": 4.8,
+      "startMs": 4280,
+      "endMs": 4800
+    },
+    {
+      "text": "کی",
+      "start": 4.8,
+      "end": 4.94,
+      "startMs": 4800,
+      "endMs": 4940
+    },
+    {
+      "text": "بے",
+      "start": 4.94,
+      "end": 5.2,
+      "startMs": 4940,
+      "endMs": 5200
+    },
+    {
+      "text": "چینی",
+      "start": 5.2,
+      "end": 5.58,
+      "startMs": 5200,
+      "endMs": 5580
+    },
+    {
+      "text": "تھے",
+      "start": 5.58,
+      "end": 5.9,
+      "startMs": 5580,
+      "endMs": 5900
     }
   ]
 }

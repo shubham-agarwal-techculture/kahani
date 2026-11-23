@@ -1,112 +1,119 @@
 {
   "scene": 2,
   "audio": "voice/scene_2.mp3",
-  "durationMs": 6240,
+  "durationMs": 7079,
   "words": [
     {
-      "text": "Rameshwaram",
+      "text": "رامیشورم",
       "start": 0.0,
-      "end": 0.8,
+      "end": 0.76,
       "startMs": 0,
-      "endMs": 800
+      "endMs": 760
     },
     {
-      "text": "ka",
-      "start": 0.8,
-      "end": 0.92,
-      "startMs": 800,
-      "endMs": 920
+      "text": "کا",
+      "start": 0.76,
+      "end": 0.94,
+      "startMs": 760,
+      "endMs": 940
     },
     {
-      "text": "kinarat",
-      "start": 0.92,
-      "end": 1.4,
-      "startMs": 920,
-      "endMs": 1400
+      "text": "کنارہ",
+      "start": 0.94,
+      "end": 1.36,
+      "startMs": 940,
+      "endMs": 1360
     },
     {
-      "text": "tha,",
-      "start": 1.4,
-      "end": 1.6,
-      "startMs": 1400,
-      "endMs": 1600
+      "text": "تھا",
+      "start": 1.36,
+      "end": 1.68,
+      "startMs": 1360,
+      "endMs": 1680
     },
     {
       "text": "جہا",
-      "start": 1.92,
-      "end": 2.14,
-      "startMs": 1920,
-      "endMs": 2140
+      "start": 1.68,
+      "end": 2.46,
+      "startMs": 1680,
+      "endMs": 2460
     },
     {
-      "text": "وانرسینہ",
-      "start": 2.14,
-      "end": 2.82,
-      "startMs": 2140,
-      "endMs": 2820
+      "text": "وانر",
+      "start": 2.46,
+      "end": 2.84,
+      "startMs": 2460,
+      "endMs": 2840
+    },
+    {
+      "text": "سینہ",
+      "start": 2.84,
+      "end": 3.32,
+      "startMs": 2840,
+      "endMs": 3320
     },
     {
       "text": "ویشال",
-      "start": 2.82,
-      "end": 3.14,
-      "startMs": 2820,
-      "endMs": 3140
+      "start": 3.32,
+      "end": 4.06,
+      "startMs": 3320,
+      "endMs": 4060
     },
     {
       "text": "پروت",
-      "start": 3.14,
-      "end": 3.54,
-      "startMs": 3140,
-      "endMs": 3540
-    },
-    {
-      "text": "اٹھا",
-      "start": 3.54,
-      "end": 3.82,
-      "startMs": 3540,
-      "endMs": 3820
-    },
-    {
-      "text": "کر",
-      "start": 3.82,
-      "end": 4.04,
-      "startMs": 3820,
-      "endMs": 4040
-    },
-    {
-      "text": "سمندر",
-      "start": 4.04,
+      "start": 4.06,
       "end": 4.56,
-      "startMs": 4040,
+      "startMs": 4060,
       "endMs": 4560
     },
     {
-      "text": "میں",
+      "text": "اٹھا",
       "start": 4.56,
-      "end": 4.68,
-      "startMs": 4560,
-      "endMs": 4680
-    },
-    {
-      "text": "دال",
-      "start": 4.68,
       "end": 4.88,
-      "startMs": 4680,
+      "startMs": 4560,
       "endMs": 4880
     },
     {
-      "text": "رہی",
+      "text": "کر",
       "start": 4.88,
       "end": 5.14,
       "startMs": 4880,
       "endMs": 5140
     },
     {
-      "text": "تھے",
+      "text": "سمندر",
       "start": 5.14,
-      "end": 5.4,
+      "end": 5.92,
       "startMs": 5140,
-      "endMs": 5400
+      "endMs": 5920
+    },
+    {
+      "text": "میں",
+      "start": 5.92,
+      "end": 6.06,
+      "startMs": 5920,
+      "endMs": 6060
+    },
+    {
+      "text": "دال",
+      "start": 6.06,
+      "end": 6.26,
+      "startMs": 6060,
+      "endMs": 6260
+    },
+    {
+      "text": "رہی",
+      "start": 6.26,
+      "end": 6.5,
+      "startMs": 6260,
+      "endMs": 6500
+    },
+    {
+      "text": "تھے",
+      "start": 6.5,
+      "end": 6.8,
+      "startMs": 6500,
+      "endMs": 6800
     }
   ]
 }

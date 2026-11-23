@@ -40,7 +40,7 @@ for i, off in enumerate(scene_offsets_ms, 1):
 
 voice_track.export("voice/full_voice.wav", format="wav")
 
-# ── 3. Build BGM track: tanpura at -10 dB relative to voice peak, fade out last 4 s ──
+# ── 3. Build BGM track: sober tanpura at -20 dB relative to voice, fade out last 4 s ──
 bgm_raw = AudioSegment.from_file("music/bgm_tanpura.wav")
 
 # Match or extend BGM to full track length
@@ -49,8 +49,8 @@ if len(bgm_raw) < total_ms:
     bgm_raw = bgm_raw * reps
 bgm_trimmed = bgm_raw[:total_ms]
 
-# -10 dB relative: lower BGM by 10 dB
-bgm_low = bgm_trimmed - 10
+# -20 dB relative: lowers BGM significantly so voice is crystal clear and drone is gentle
+bgm_low = bgm_trimmed - 20
 
 # Fade out last 4 seconds
 fade_ms = 4000
