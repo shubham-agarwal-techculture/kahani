@@ -1,0 +1,101 @@
+{
+  "scene": 2,
+  "durationMs": 8040,
+  "words": [
+    {
+      "text": "2",
+      "startMs": 0,
+      "endMs": 400
+    },
+    {
+      "text": "بھیکشو",
+      "startMs": 400,
+      "endMs": 780
+    },
+    {
+      "text": "جنگل",
+      "startMs": 780,
+      "endMs": 1120
+    },
+    {
+      "text": "کے",
+      "startMs": 1120,
+      "endMs": 1280
+    },
+    {
+      "text": "راستے",
+      "startMs": 1280,
+      "endMs": 1680
+    },
+    {
+      "text": "سے",
+      "startMs": 1680,
+      "endMs": 1940
+    },
+    {
+      "text": "اپنے",
+      "startMs": 1940,
+      "endMs": 2280
+    },
+    {
+      "text": "آشرم",
+      "startMs": 2280,
+      "endMs": 2700
+    },
+    {
+      "text": "لوٹ",
+      "startMs": 2700,
+      "endMs": 3000
+    },
+    {
+      "text": "رہے",
+      "startMs": 3000,
+      "endMs": 3220
+    },
+    {
+      "text": "تھے.",
+      "startMs": 3220,
+      "endMs": 3580
+    },
+    {
+      "text": "سامنے",
+      "startMs": 4400,
+      "endMs": 4920
+    },
+    {
+      "text": "ایک",
+      "startMs": 4920,
+      "endMs": 5160
+    },
+    {
+      "text": "افنتی",
+      "startMs": 5160,
+      "endMs": 5640
+    },
+    {
+      "text": "ہوئی",
+      "startMs": 5640,
+      "endMs": 5880
+    },
+    {
+      "text": "کیچر",
+      "startMs": 5880,
+      "endMs": 6280
+    },
+    {
+      "text": "بھری",
+      "startMs": 6280,
+      "endMs": 6560
+    },
+    {
+      "text": "ندی",
+      "startMs": 6560,
+      "endMs": 6840
+    },
+    {
+      "text": "تھی.",
+      "startMs": 6840,
+      "endMs": 7160
+    }
+  ]
+}

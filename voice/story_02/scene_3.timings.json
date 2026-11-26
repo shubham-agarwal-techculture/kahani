@@ -1,0 +1,91 @@
+{
+  "scene": 3,
+  "durationMs": 5880,
+  "words": [
+    {
+      "text": "کنارے",
+      "startMs": 0,
+      "endMs": 560
+    },
+    {
+      "text": "پر",
+      "startMs": 560,
+      "endMs": 780
+    },
+    {
+      "text": "ایک",
+      "startMs": 780,
+      "endMs": 1080
+    },
+    {
+      "text": "یوتی",
+      "startMs": 1080,
+      "endMs": 1440
+    },
+    {
+      "text": "کھڑی",
+      "startMs": 1440,
+      "endMs": 1720
+    },
+    {
+      "text": "تھی,",
+      "startMs": 1720,
+      "endMs": 2000
+    },
+    {
+      "text": "جو",
+      "startMs": 2320,
+      "endMs": 2540
+    },
+    {
+      "text": "اس",
+      "startMs": 2540,
+      "endMs": 2720
+    },
+    {
+      "text": "تیس",
+      "startMs": 2720,
+      "endMs": 3040
+    },
+    {
+      "text": "بحاف",
+      "startMs": 3040,
+      "endMs": 3420
+    },
+    {
+      "text": "کو",
+      "startMs": 3420,
+      "endMs": 3560
+    },
+    {
+      "text": "پار",
+      "startMs": 3560,
+      "endMs": 3840
+    },
+    {
+      "text": "کرنے",
+      "startMs": 3840,
+      "endMs": 4140
+    },
+    {
+      "text": "سے",
+      "startMs": 4140,
+      "endMs": 4320
+    },
+    {
+      "text": "در",
+      "startMs": 4320,
+      "endMs": 4480
+    },
+    {
+      "text": "رہی",
+      "startMs": 4480,
+      "endMs": 4740
+    },
+    {
+      "text": "تھی.",
+      "startMs": 4740,
+      "endMs": 5020
+    }
+  ]
+}

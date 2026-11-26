@@ -1,0 +1,96 @@
+{
+  "scene": 5,
+  "durationMs": 7512,
+  "words": [
+    {
+      "text": "گھنٹو",
+      "startMs": 0,
+      "endMs": 560
+    },
+    {
+      "text": "تک",
+      "startMs": 560,
+      "endMs": 780
+    },
+    {
+      "text": "دونوں",
+      "startMs": 780,
+      "endMs": 1080
+    },
+    {
+      "text": "چکچاپ",
+      "startMs": 1080,
+      "endMs": 1600
+    },
+    {
+      "text": "چلتے",
+      "startMs": 1600,
+      "endMs": 1920
+    },
+    {
+      "text": "رہے",
+      "startMs": 1920,
+      "endMs": 2280
+    },
+    {
+      "text": "پر",
+      "startMs": 2960,
+      "endMs": 3360
+    },
+    {
+      "text": "چھوٹے",
+      "startMs": 3360,
+      "endMs": 3720
+    },
+    {
+      "text": "بھکشو",
+      "startMs": 3720,
+      "endMs": 4060
+    },
+    {
+      "text": "کا",
+      "startMs": 4060,
+      "endMs": 4180
+    },
+    {
+      "text": "منبس",
+      "startMs": 4180,
+      "endMs": 4700
+    },
+    {
+      "text": "سے",
+      "startMs": 4700,
+      "endMs": 4820
+    },
+    {
+      "text": "اور",
+      "startMs": 4820,
+      "endMs": 5100
+    },
+    {
+      "text": "بھیچانی",
+      "startMs": 5100,
+      "endMs": 5600
+    },
+    {
+      "text": "سے",
+      "startMs": 5600,
+      "endMs": 5780
+    },
+    {
+      "text": "اوبال",
+      "startMs": 5780,
+      "endMs": 6080
+    },
+    {
+      "text": "رہا",
+      "startMs": 6080,
+      "endMs": 6360
+    },
+    {
+      "text": "تھا",
+      "startMs": 6360,
+      "endMs": 6620
+    }
+  ]
+}
